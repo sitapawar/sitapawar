@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sita Pawar
 
-<!--
-**sitapawar/sitapawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analytics Consultant** at The Information Lab NY
 
-Here are some ideas to get you started:
+I blend data science, design, and storytelling to build people-focused flows and visuals that make complex information clear and compelling. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Experience:** Tableau (Desktop Certified) · Alteryx (Core Certified) · SQL · Python · R · React
+
+**Currently working on:**
+- Client analytics projects at The Information Lab NY
+- Data visualizations that sit at the intersection of design and narrative | [Tableau Public](https://public.tableau.com/app/profile/sita.pawar/vizzes)
+- Personal projects on my [website](https://www.sitapawar.com/)
+
+**Background:**
+Data Analytics Consultant at The Information Lab NY, with a Computer Science degree from Brown University and a foundation in UI/UX, web development, data science, comparative literature, animation and film.
