@@ -4,10 +4,10 @@
 
 I blend data science, design, and storytelling to build people-focused flows and visuals that make complex information clear and compelling. 
 
-**Experience:** Tableau (Desktop Certified) · Alteryx (Core and Advanced Certified) · SQL · Python · R · React
+**Experience:** Tableau (Desktop Certified) · Alteryx (Core and Advanced Certified) · Power BI · SQL · Python · R · React
 
 **Currently working on:**
-- Client analytics projects at The Information Lab NY
+- Client analytics projects at [The Information Lab NY](https://www.thedataschool.co.uk/blog/sita-pawar/)
 - Data visualizations that sit at the intersection of design and narrative | [Tableau Public](https://public.tableau.com/app/profile/sita.pawar/vizzes)
 - Personal projects on my [website](https://www.sitapawar.com/)
 
