@@ -4,7 +4,7 @@
 
 I blend data science, design, and storytelling to build people-focused flows and visuals that make complex information clear and compelling. 
 
-**Experience:** Tableau (Desktop Certified) · Alteryx (Core Certified) · SQL · Python · R · React
+**Experience:** Tableau (Desktop Certified) · Alteryx (Core and Advanced Certified) · SQL · Python · R · React
 
 **Currently working on:**
 - Client analytics projects at The Information Lab NY
